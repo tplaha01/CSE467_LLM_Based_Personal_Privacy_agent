@@ -1,0 +1,14 @@
+models:
+  gpt:
+    provider: openai_compatible
+    model: REPLACE_WITH_EXACT_MODEL_ID
+  claude:
+    provider: openai_compatible
+    model: REPLACE_WITH_EXACT_MODEL_ID
+  gemini:
+    provider: openai_compatible
+    model: REPLACE_WITH_EXACT_MODEL_ID
+  open_source:
+    provider: openai_compatible
+    model: REPLACE_WITH_EXACT_MODEL_ID
+

@@ -1,0 +1,11 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object", "additionalProperties": false,
+  "required": ["physical", "economic", "reputational", "psychological", "autonomy", "discrimination", "relationship"],
+  "properties": {
+    "physical": {"$ref": "#/$defs/harm"}, "economic": {"$ref": "#/$defs/harm"},
+    "reputational": {"$ref": "#/$defs/harm"}, "psychological": {"$ref": "#/$defs/harm"},
+    "autonomy": {"$ref": "#/$defs/harm"}, "discrimination": {"$ref": "#/$defs/harm"}, "relationship": {"$ref": "#/$defs/harm"}
+  },
+  "$defs": {"harm": {"type":"object", "additionalProperties":false, "required":["label","evidence"], "properties":{"label":{"type":"integer","enum":[0,1]},"evidence":{"type":["string","null"]}}}}
+}

@@ -1,0 +1,4 @@
+statement_id,statement,physical,economic,reputational,psychological,autonomy,discrimination,relationship
+s1,"We share browsing activity with advertising partners to personalize offers.",0,0,0,0,1,0,0
+s2,"We encrypt data in transit and do not sell personal information.",0,0,0,0,0,0,0
+s3,"We may use health information to deny access to some services.",0,1,0,0,1,1,0
