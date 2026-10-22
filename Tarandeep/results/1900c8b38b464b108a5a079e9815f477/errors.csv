@@ -1,0 +1,4 @@
+statement_id,harm_category,error_type,ground_truth,prediction,model_evidence,raw_response,model_id
+S001,,invalid output,,,,,llama3.2:3b
+S002,,invalid output,,,,,llama3.2:3b
+S003,,invalid output,,,,,llama3.2:3b

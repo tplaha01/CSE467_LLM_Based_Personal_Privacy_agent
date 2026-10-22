@@ -1,0 +1,20 @@
+You are evaluating a privacy-policy statement for potential privacy harms.
+
+Use only the statement below. Do not infer facts that are not supported by the statement. For each harm category, set label to 1 only when the statement provides enough evidence that the practice could cause that harm; otherwise set label to 0. When label is 1, evidence must be a short exact quote copied from the statement. When label is 0, evidence must be null.
+
+Return exactly one JSON object with these seven keys: physical, economic, reputational, psychological, autonomy, discrimination, relationship. Each value MUST be an object containing exactly two fields: label (integer 0 or 1) and evidence (string or null). Never use a bare integer as a harm value. Never write the word null inside quotation marks.
+
+Required output shape:
+{"physical":{"label":0,"evidence":null},"economic":{"label":0,"evidence":null},"reputational":{"label":0,"evidence":null},"psychological":{"label":0,"evidence":null},"autonomy":{"label":0,"evidence":null},"discrimination":{"label":0,"evidence":null},"relationship":{"label":0,"evidence":null}}
+
+Harm definitions:
+- physical: Bodily injury or death.
+- economic: Financial loss, lost opportunities, or loss of economic value.
+- reputational: Damage to reputation, social standing, employment, or relationships with others.
+- psychological: Negative mental or emotional effects such as distress, fear, anxiety, embarrassment, or disturbance.
+- autonomy: Restricting, undermining, or improperly influencing someone's choices or control.
+- discrimination: Unequal or harmful treatment based on personal characteristics.
+- relationship: Damage to personal, family, social, or professional relationships.
+
+Privacy-policy statement:
+<<<STATEMENT>>>

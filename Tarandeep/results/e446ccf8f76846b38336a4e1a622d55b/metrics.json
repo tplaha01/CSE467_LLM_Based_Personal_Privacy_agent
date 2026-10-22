@@ -1,0 +1,91 @@
+{
+  "overall": {
+    "micro_precision": 0,
+    "micro_recall": 1.0,
+    "micro_f1": 0.0,
+    "macro_precision": 0.0,
+    "macro_recall": 0.0,
+    "macro_f1": 0.0,
+    "exact_match_accuracy": 0.3333333333333333,
+    "hamming_loss": 0.14285714285714285
+  },
+  "per_harm": [
+    {
+      "harm": "physical",
+      "TP": 0,
+      "FP": 0,
+      "TN": 3,
+      "FN": 0,
+      "precision": 0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0
+    },
+    {
+      "harm": "economic",
+      "TP": 0,
+      "FP": 0,
+      "TN": 3,
+      "FN": 0,
+      "precision": 0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0
+    },
+    {
+      "harm": "reputational",
+      "TP": 0,
+      "FP": 0,
+      "TN": 3,
+      "FN": 0,
+      "precision": 0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0
+    },
+    {
+      "harm": "psychological",
+      "TP": 0,
+      "FP": 0,
+      "TN": 2,
+      "FN": 1,
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 1
+    },
+    {
+      "harm": "autonomy",
+      "TP": 0,
+      "FP": 0,
+      "TN": 1,
+      "FN": 2,
+      "precision": 0,
+      "recall": 0.0,
+      "f1": 0,
+      "support": 2
+    },
+    {
+      "harm": "discrimination",
+      "TP": 0,
+      "FP": 0,
+      "TN": 3,
+      "FN": 0,
+      "precision": 0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0
+    },
+    {
+      "harm": "relationship",
+      "TP": 0,
+      "FP": 0,
+      "TN": 3,
+      "FN": 0,
+      "precision": 0,
+      "recall": 0,
+      "f1": 0,
+      "support": 0
+    }
+  ]
+}

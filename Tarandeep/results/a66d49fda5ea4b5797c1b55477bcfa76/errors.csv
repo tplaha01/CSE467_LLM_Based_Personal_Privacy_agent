@@ -1,0 +1,1171 @@
+statement_id,harm_category,error_type,ground_truth,prediction,model_evidence,raw_response,model_id
+S002,psychological,false negative,1,0,,"{
+""physical"": {
+""label"": 0,
+""evidence"": null
+},
+""economic"": {
+""label"": 0,
+""evidence"": null
+},
+""reputational"": {
+""label"": 0,
+""evidence"": null
+},
+""psychological"": {
+""label"": 0,
+""evidence"": null
+},
+""autonomy"": {
+""label"": 0,
+""evidence"": null
+},
+""discrimination"": {
+""label"": 0,
+""evidence"": null
+},
+""relationship"": {
+""label"": 0,
+""evidence"": null
+}
+}",qwen:4b
+S002,autonomy,false negative,1,0,,"{
+""physical"": {
+""label"": 0,
+""evidence"": null
+},
+""economic"": {
+""label"": 0,
+""evidence"": null
+},
+""reputational"": {
+""label"": 0,
+""evidence"": null
+},
+""psychological"": {
+""label"": 0,
+""evidence"": null
+},
+""autonomy"": {
+""label"": 0,
+""evidence"": null
+},
+""discrimination"": {
+""label"": 0,
+""evidence"": null
+},
+""relationship"": {
+""label"": 0,
+""evidence"": null
+}
+}",qwen:4b
+S003,autonomy,false negative,1,0,,"{
+""physical"": {
+""label"": 0,
+""evidence"": null
+},
+""economic"": {
+""label"": 0,
+""evidence"": null
+},
+""reputational"": {
+""label"": 0,
+""evidence"": null
+},
+""psychological"": {
+""label"": 0,
+""evidence"": null
+},
+""autonomy"": {
+""label"": 0,
+""evidence"": null
+},
+""discrimination"": {
+""label"": 0,
+""evidence"": null
+},
+""relationship"": {
+""label"": 0,
+""evidence"": null
+}
+}",qwen:4b
+S004,autonomy,false negative,1,0,,"{
+""physical"": {
+""label"": 0,
+""evidence"": null
+},
+""economic"": {
+""label"": 0,
+""evidence"": null
+},
+""reputational"": {
+""label"": 0,
+""evidence"": null
+},
+""psychological"": {
+""label"": 0,
+""evidence"": null
+},
+""autonomy"": {
+""label"": 0,
+""evidence"": null
+},
+""discrimination"": {
+""label"": 0,
+""evidence"": null
+},
+""relationship"": {
+""label"": 0,
+""evidence"": null
+}
+}",qwen:4b
+S005,economic,false negative,1,0,,"{
+  ""physical"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""economic"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""reputational"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""psychological"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""autonomy"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""discrimination"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""relationship"": {
+    ""label"": 0,
+    ""evidence"": null
+  }
+}",qwen:4b
+S005,psychological,false negative,1,0,,"{
+  ""physical"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""economic"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""reputational"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""psychological"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""autonomy"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""discrimination"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""relationship"": {
+    ""label"": 0,
+    ""evidence"": null
+  }
+}",qwen:4b
+S005,autonomy,false negative,1,0,,"{
+  ""physical"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""economic"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""reputational"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""psychological"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""autonomy"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""discrimination"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""relationship"": {
+    ""label"": 0,
+    ""evidence"": null
+  }
+}",qwen:4b
+S006,autonomy,false negative,1,0,,"{
+  ""physical"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""economic"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""reputational"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""psychological"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""autonomy"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""discrimination"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""relationship"": {
+    ""label"": 0,
+    ""evidence"": null
+  }
+}",qwen:4b
+S008,autonomy,false negative,1,0,,"{
+  ""physical"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""economic"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""reputational"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""psychological"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""autonomy"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""discrimination"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""relationship"": {
+    ""label"": 0,
+    ""evidence"": null
+  }
+}",qwen:4b
+S009,autonomy,false negative,1,0,,"{
+  ""physical"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""economic"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""reputational"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""psychological"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""autonomy"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""discrimination"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""relationship"": {
+    ""label"": 0,
+    ""evidence"": null
+  }
+}",qwen:4b
+S013,autonomy,false negative,1,0,,"{
+  ""physical"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""economic"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""reputational"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""psychological"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""autonomy"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""discrimination"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""relationship"": {
+    ""label"": 0,
+    ""evidence"": null
+  }
+}",qwen:4b
+S017,economic,false negative,1,0,,"{
+  ""physical"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""economic"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""reputational"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""psychological"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""autonomy"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""discrimination"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""relationship"": {
+    ""label"": 0,
+    ""evidence"": null
+  }
+}",qwen:4b
+S017,autonomy,false negative,1,0,,"{
+  ""physical"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""economic"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""reputational"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""psychological"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""autonomy"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""discrimination"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""relationship"": {
+    ""label"": 0,
+    ""evidence"": null
+  }
+}",qwen:4b
+S025,autonomy,false negative,1,0,,"{
+  ""physical"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""economic"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""reputational"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""psychological"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""autonomy"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""discrimination"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""relationship"": {
+    ""label"": 0,
+    ""evidence"": null
+  }
+}",qwen:4b
+S027,autonomy,false negative,1,0,,"{
+  ""physical"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""economic"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""reputational"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""psychological"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""autonomy"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""discrimination"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""relationship"": {
+    ""label"": 0,
+    ""evidence"": null
+  }
+}",qwen:4b
+S028,autonomy,false negative,1,0,,"{
+  ""physical"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""economic"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""reputational"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""psychological"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""autonomy"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""discrimination"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""relationship"": {
+    ""label"": 0,
+    ""evidence"": null
+  }
+}",qwen:4b
+S033,economic,false negative,1,0,,"{
+  ""physical"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""economic"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""reputational"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""psychological"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""autonomy"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""discrimination"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""relationship"": {
+    ""label"": 0,
+    ""evidence"": null
+  }
+}",qwen:4b
+S033,reputational,false negative,1,0,,"{
+  ""physical"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""economic"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""reputational"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""psychological"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""autonomy"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""discrimination"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""relationship"": {
+    ""label"": 0,
+    ""evidence"": null
+  }
+}",qwen:4b
+S033,autonomy,false negative,1,0,,"{
+  ""physical"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""economic"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""reputational"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""psychological"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""autonomy"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""discrimination"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""relationship"": {
+    ""label"": 0,
+    ""evidence"": null
+  }
+}",qwen:4b
+S039,physical,false negative,1,0,,"{
+  ""physical"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""economic"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""reputational"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""psychological"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""autonomy"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""discrimination"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""relationship"": {
+    ""label"": 0,
+    ""evidence"": null
+  }
+}",qwen:4b
+S039,autonomy,false negative,1,0,,"{
+  ""physical"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""economic"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""reputational"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""psychological"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""autonomy"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""discrimination"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""relationship"": {
+    ""label"": 0,
+    ""evidence"": null
+  }
+}",qwen:4b
+S040,reputational,false negative,1,0,,"{
+  ""physical"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""economic"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""reputational"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""psychological"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""autonomy"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""discrimination"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""relationship"": {
+    ""label"": 0,
+    ""evidence"": null
+  }
+}",qwen:4b
+S040,psychological,false negative,1,0,,"{
+  ""physical"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""economic"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""reputational"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""psychological"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""autonomy"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""discrimination"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""relationship"": {
+    ""label"": 0,
+    ""evidence"": null
+  }
+}",qwen:4b
+S040,autonomy,false negative,1,0,,"{
+  ""physical"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""economic"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""reputational"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""psychological"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""autonomy"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""discrimination"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""relationship"": {
+    ""label"": 0,
+    ""evidence"": null
+  }
+}",qwen:4b
+S041,autonomy,false negative,1,0,,"{
+  ""physical"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""economic"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""reputational"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""psychological"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""autonomy"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""discrimination"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""relationship"": {
+    ""label"": 0,
+    ""evidence"": null
+  }
+}",qwen:4b
+S044,reputational,false negative,1,0,,"{
+  ""physical"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""economic"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""reputational"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""psychological"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""autonomy"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""discrimination"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""relationship"": {
+    ""label"": 0,
+    ""evidence"": null
+  }
+}",qwen:4b
+S044,psychological,false negative,1,0,,"{
+  ""physical"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""economic"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""reputational"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""psychological"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""autonomy"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""discrimination"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""relationship"": {
+    ""label"": 0,
+    ""evidence"": null
+  }
+}",qwen:4b
+S044,autonomy,false negative,1,0,,"{
+  ""physical"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""economic"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""reputational"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""psychological"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""autonomy"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""discrimination"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""relationship"": {
+    ""label"": 0,
+    ""evidence"": null
+  }
+}",qwen:4b
+S045,autonomy,false negative,1,0,,"{
+""physical"": {
+""label"": 0,
+""evidence"": null
+},
+""economic"": {
+""label"": 0,
+""evidence"": null
+},
+""reputational"": {
+""label"": 0,
+""evidence"": null
+},
+""psychological"": {
+""label"": 0,
+""evidence"": null
+},
+""autonomy"": {
+""label"": 0,
+""evidence"": null
+},
+""discrimination"": {
+""label"": 0,
+""evidence"": null
+},
+""relationship"": {
+""label"": 0,
+""evidence"": null
+}
+}",qwen:4b
+S046,psychological,false negative,1,0,,"{
+  ""physical"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""economic"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""reputational"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""psychological"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""autonomy"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""discrimination"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""relationship"": {
+    ""label"": 0,
+    ""evidence"": null
+  }
+}",qwen:4b
+S046,autonomy,false negative,1,0,,"{
+  ""physical"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""economic"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""reputational"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""psychological"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""autonomy"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""discrimination"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""relationship"": {
+    ""label"": 0,
+    ""evidence"": null
+  }
+}",qwen:4b
+S047,autonomy,false negative,1,0,,"{
+  ""physical"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""economic"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""reputational"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""psychological"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""autonomy"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""discrimination"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""relationship"": {
+    ""label"": 0,
+    ""evidence"": null
+  }
+}",qwen:4b
+S049,psychological,false negative,1,0,,"{
+  ""physical"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""economic"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""reputational"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""psychological"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""autonomy"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""discrimination"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""relationship"": {
+    ""label"": 0,
+    ""evidence"": null
+  }
+}",qwen:4b
+S049,autonomy,false negative,1,0,,"{
+  ""physical"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""economic"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""reputational"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""psychological"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""autonomy"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""discrimination"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""relationship"": {
+    ""label"": 0,
+    ""evidence"": null
+  }
+}",qwen:4b
+S050,autonomy,false negative,1,0,,"{
+  ""physical"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""economic"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""reputational"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""psychological"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""autonomy"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""discrimination"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""relationship"": {
+    ""label"": 0,
+    ""evidence"": null
+  }
+}",qwen:4b
+S051,autonomy,false negative,1,0,,"{
+  ""physical"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""economic"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""reputational"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""psychological"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""autonomy"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""discrimination"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""relationship"": {
+    ""label"": 0,
+    ""evidence"": null
+  }
+}",qwen:4b
+S053,physical,false negative,1,0,,"{
+  ""physical"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""economic"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""reputational"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""psychological"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""autonomy"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""discrimination"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""relationship"": {
+    ""label"": 0,
+    ""evidence"": null
+  }
+}",qwen:4b
+S053,economic,false negative,1,0,,"{
+  ""physical"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""economic"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""reputational"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""psychological"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""autonomy"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""discrimination"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""relationship"": {
+    ""label"": 0,
+    ""evidence"": null
+  }
+}",qwen:4b
+S053,autonomy,false negative,1,0,,"{
+  ""physical"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""economic"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""reputational"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""psychological"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""autonomy"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""discrimination"": {
+    ""label"": 0,
+    ""evidence"": null
+  },
+  ""relationship"": {
+    ""label"": 0,
+    ""evidence"": null
+  }
+}",qwen:4b

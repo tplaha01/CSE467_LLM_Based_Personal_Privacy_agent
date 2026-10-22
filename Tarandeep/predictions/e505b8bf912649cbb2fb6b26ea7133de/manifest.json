@@ -1,0 +1,25 @@
+{
+  "run_id": "e505b8bf912649cbb2fb6b26ea7133de",
+  "experiment_config": {
+    "experiment_name": "baseline_v1",
+    "prompt_version": "harm_detection_v1",
+    "temperature": 0,
+    "top_p": 1.0,
+    "max_output_tokens": 500,
+    "dataset_path": "data/ground_truth.csv",
+    "prediction_dir": "predictions",
+    "result_dir": "results",
+    "retry_attempts": 3,
+    "retry_backoff_seconds": 1,
+    "timeout_seconds": 60,
+    "random_seed": 42
+  },
+  "provider": "openai_compatible",
+  "model_id": "qwen:4b",
+  "prompt_hash": "f4ca4deb46c6dab8b0efbc766963ca2fb0140888cb4320a2761fd359722164bd",
+  "dataset_hash": "fe629ae0c605c32273c50cc8b60f95f28edd511175195fd48a870c5f2f5b6c04",
+  "python": "3.12.14",
+  "start_time": 1792629836.9626398,
+  "end_time": 1792629868.1743665,
+  "samples": 3
+}

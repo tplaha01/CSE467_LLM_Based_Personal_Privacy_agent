@@ -1,0 +1,12 @@
+{
+  "version": "citron_solove_v1",
+  "harms": {
+    "physical": "Bodily injury or death.",
+    "economic": "Financial loss, lost opportunities, or loss of economic value.",
+    "reputational": "Damage to reputation, social standing, employment, or relationships with others.",
+    "psychological": "Negative mental or emotional effects such as distress, fear, anxiety, embarrassment, or disturbance.",
+    "autonomy": "Restricting, undermining, or improperly influencing someone's choices or control.",
+    "discrimination": "Unequal or harmful treatment based on personal characteristics.",
+    "relationship": "Damage to personal, family, social, or professional relationships."
+  }
+}

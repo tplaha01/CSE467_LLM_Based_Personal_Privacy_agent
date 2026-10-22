@@ -1,0 +1,4 @@
+statement_id,physical,economic,reputational,psychological,autonomy,discrimination,relationship,pred_physical,pred_economic,pred_reputational,pred_psychological,pred_autonomy,pred_discrimination,pred_relationship
+S001,0,0,0,0,0,0,0,,,,,,,
+S002,0,0,0,1,1,0,0,,,,,,,
+S003,0,0,0,0,1,0,0,,,,,,,

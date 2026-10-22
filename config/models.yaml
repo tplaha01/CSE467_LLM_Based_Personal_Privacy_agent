@@ -10,5 +10,5 @@ models:
     model: REPLACE_WITH_EXACT_MODEL_ID
   open_source:
     provider: openai_compatible
-    model: REPLACE_WITH_EXACT_MODEL_ID
+    model: qwen:4b
 

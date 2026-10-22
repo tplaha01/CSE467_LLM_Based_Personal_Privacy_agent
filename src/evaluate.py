@@ -15,7 +15,8 @@ def main():
     with (out/"predictions_with_ground_truth.csv").open("w",newline="",encoding="utf-8") as f:
         fields=["statement_id"]+list(HARMS)+[f"pred_{h}" for h in HARMS]; w=csv.DictWriter(f,fieldnames=fields); w.writeheader()
         for r in records:
-            w.writerow({"statement_id":r["statement_id"],**{h:r["truth"][h] for h in HARMS},**{f"pred_{h}":(r.get("parsed_prediction") or {}).get(h,{}).get("label","") for h in HARMS}})
+            pred=r.get("parsed_prediction") or {}
+            w.writerow({"statement_id":r["statement_id"],**{h:r["truth"][h] for h in HARMS},**{f"pred_{h}":(pred.get(h,{}).get("label","") if isinstance(pred.get(h,{}),dict) else "") for h in HARMS}})
     write_errors(records,out/"errors.csv")
     for name, rows in (("overall_metrics.csv",[metrics["overall"]]),("per_harm_metrics.csv",metrics["per_harm"])):
         with (out/name).open("w",newline="",encoding="utf-8") as f: w=csv.DictWriter(f,fieldnames=rows[0].keys()); w.writeheader(); w.writerows(rows)

@@ -1,0 +1,8 @@
+harm,TP,FP,TN,FN,precision,recall,f1,support
+physical,0,0,3,0,0,0,0,0
+economic,0,0,3,0,0,0,0,0
+reputational,0,0,3,0,0,0,0,0
+psychological,0,0,2,1,0,0.0,0,1
+autonomy,0,0,1,2,0,0.0,0,2
+discrimination,0,0,3,0,0,0,0,0
+relationship,0,0,3,0,0,0,0,0
