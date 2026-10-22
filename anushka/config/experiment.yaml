@@ -1,0 +1,12 @@
+experiment_name: openai_api_baseline_v1
+prompt_version: harm_detection_v1
+temperature: 0
+top_p: 1.0
+max_output_tokens: 500
+dataset_path: data/ground_truth.csv
+prediction_dir: anushka/predictions
+result_dir: anushka/results
+retry_attempts: 3
+retry_backoff_seconds: 1
+timeout_seconds: 60
+random_seed: 42

@@ -1,0 +1,25 @@
+{
+  "run_id": "dc629353e3b84bb18c5a0acbba0d62c7",
+  "experiment_config": {
+    "experiment_name": "openai_api_baseline_v1",
+    "prompt_version": "harm_detection_v1",
+    "temperature": 0,
+    "top_p": 1.0,
+    "max_output_tokens": 500,
+    "dataset_path": "data/ground_truth.csv",
+    "prediction_dir": "anushka/predictions",
+    "result_dir": "anushka/results",
+    "retry_attempts": 3,
+    "retry_backoff_seconds": 1,
+    "timeout_seconds": 60,
+    "random_seed": 42
+  },
+  "provider": "openai",
+  "model_id": "gpt-4o-mini",
+  "prompt_hash": "f4ca4deb46c6dab8b0efbc766963ca2fb0140888cb4320a2761fd359722164bd",
+  "dataset_hash": "657125f75b7f6ed1649f179f8d3411d608678416ebcf7cb0b38b1d5a8eeb6bc2",
+  "python": "3.11.6",
+  "start_time": 1792636036.208941,
+  "end_time": 1792636036.2092319,
+  "samples": 3
+}

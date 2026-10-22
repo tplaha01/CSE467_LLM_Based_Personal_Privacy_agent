@@ -1,0 +1,4 @@
+models:
+  openai_gpt4o_mini:
+    provider: openai
+    model: gpt-4o-mini
